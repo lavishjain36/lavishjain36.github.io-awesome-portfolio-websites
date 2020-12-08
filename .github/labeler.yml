@@ -1,0 +1,4 @@
+nwoc:
+  - ./*
+  - assets/*
+  - assets/**/*
